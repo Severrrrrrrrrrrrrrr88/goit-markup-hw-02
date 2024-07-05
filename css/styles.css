@@ -10,6 +10,10 @@ a {
     text-decoration: none;
 }
 
+button {
+    cursor:pointer;
+}
+
 .visually-hidden {
     position: absolute;
     width: 1px;
@@ -60,7 +64,7 @@ a {
 
 .header-menu-link:hover,
 .header-menu-link:focus {
-c
+    color: #404bbf;
 }
 
 .header-address {
